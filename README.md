@@ -18,7 +18,7 @@ Started publishing in May 2026 — weekends only. Everything you see is ~8 weeke
 | [**SACCO System**](https://github.com/washingtoneimae-dot/saccosystem2) | Member statement automation for Kenyan savings cooperatives. Excel export + email delivery, pure Python stdlib, zero external dependencies. |
 | [**Timestamped IP**](https://github.com/washingtoneimae-dot/timestamped-ip) | Public verifiable prior-art registry — Bitcoin-anchored, GPG-signed. Companion to Bit Protocol. |
 | **SolDegarde** *(private)* | Solar panel soiling degradation tracker + cleaning ROI optimizer. Open-Meteo weather data, ML degradation curves, Gemini-assisted recommendations. |
-| **5G SSB Observer** *(private)* | Telecom tower structural health monitoring via BBU phase shift logs. Phase-shift → deflection analysis → predictive maintenance from existing infrastructure data. Streamlit demo. |
+| [**5G SSB Observer**](https://github.com/washingtoneimae-dot/5g-ssb-whitepaper) *(whitepaper)* | Telecom tower structural health monitoring via BBU phase shift logs. Zero-hardware. |
 | **Trading Bot** *(private)* | Multi-strategy algorithmic trading on Bybit. 7 strategies including ATR stops, regime detection, correlation hedging, maker-only fills. |
 
 ### My thesis
