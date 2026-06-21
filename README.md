@@ -6,6 +6,8 @@ I build things that timestamp the future. Bitcoin-anchored proof-of-existence. T
 
 No CS degree. No bootcamp. I just read, build, and ship.
 
+Started publishing in May 2026 — weekends only. Everything you see is ~8 weekends of output.
+
 ---
 
 ### What I've built
