@@ -14,7 +14,7 @@ Started publishing in May 2026 — weekends only. Everything you see is ~8 weeke
 
 | Project | What it does |
 |---|---|
-| [**lorouter**](https://github.com/washingtoneimae-dot/lorouter) | Subscription-powered marketplace for Skill Creation Files, Complete Skills, and Workflow Templates. Built on Docker, FastAPI, DeepSeek API.. |
+| [**lorouter**](https://github.com/washingtoneimae-dot/lorouter) | Profile-based LoRA adapter selection for multi-adapter LLM serving.. |
 | [**SACCO System**](https://github.com/washingtoneimae-dot/saccosystem2) | Member statement automation for Kenyan savings cooperatives. Excel export + email delivery, pure Python stdlib, zero external dependencies. |
 | [**Timestamped IP**](https://github.com/washingtoneimae-dot/timestamped-ip) | Public verifiable prior-art registry — Bitcoin-anchored, GPG-signed. Companion to Bit Protocol. |
 | [**agent**](https://github.com/washingtoneimae-dot/agent)  | Subscription-powered marketplace for Skill Creation Files, Complete Skills, and Workflow Templates. Built on Docker, FastAPI, DeepSeek API. |
