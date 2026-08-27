@@ -14,10 +14,10 @@ Started publishing in May 2026 — weekends only. Everything you see is ~8 weeke
 
 | Project | What it does |
 |---|---|
-| [**Bit Protocol**](https://github.com/washingtoneimae-dot/bit) | Decentralized proof-of-existence on Bitcoin. Stamp any file/idea to the blockchain as immutable prior art. No disclosure, no gatekeepers. Verified on testnet. |
+| [**lorouter**](https://github.com/washingtoneimae-dot/lorouter) | Decentralized proof-of-existence on Bitcoin. Stamp any file/idea to the blockchain as immutable prior art. No disclosure, no gatekeepers. Verified on testnet. |
 | [**SACCO System**](https://github.com/washingtoneimae-dot/saccosystem2) | Member statement automation for Kenyan savings cooperatives. Excel export + email delivery, pure Python stdlib, zero external dependencies. |
 | [**Timestamped IP**](https://github.com/washingtoneimae-dot/timestamped-ip) | Public verifiable prior-art registry — Bitcoin-anchored, GPG-signed. Companion to Bit Protocol. |
-| **SolDegarde** *(private)* | Solar panel soiling degradation tracker + cleaning ROI optimizer. Open-Meteo weather data, ML degradation curves, Gemini-assisted recommendations. |
+| [**agent**](https://github.com/washingtoneimae-dot/agent)  | Subscription-powered marketplace for Skill Creation Files, Complete Skills, and Workflow Templates. Built on Docker, FastAPI, DeepSeek API. |
 | [**5G SSB Observer**](https://github.com/washingtoneimae-dot/5g-ssb-whitepaper) *(whitepaper)* | Telecom tower structural health monitoring via BBU phase shift logs. Zero-hardware. |
 | **Trading Bot** *(private)* | Multi-strategy algorithmic trading on Bybit. 7 strategies including ATR stops, regime detection, correlation hedging, maker-only fills. |
 
