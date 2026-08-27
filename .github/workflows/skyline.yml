@@ -21,17 +21,9 @@ jobs:
         with:
           filename: metrics.skyline.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: current
           config_timezone: Africa/Nairobi
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics.skyline.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update contribution skyline"
-            git push
-          fi
