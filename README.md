@@ -55,6 +55,12 @@ One mechanism. Multiple domains. Same thesis.
 - Extending Bit Protocol toward production readiness
 - Figuring out what comes after high school
 
+### Contribution skyline
+
+![3D contribution skyline](metrics.skyline.svg)
+
+*Interactive version: [skyline.github.com/washingtoneimae-dot](https://skyline.github.com/washingtoneimae-dot)*
+
 ---
 
 ### Contact
