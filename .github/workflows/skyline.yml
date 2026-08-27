@@ -26,5 +26,6 @@ jobs:
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2026
-          plugin_skyline_frames: 24
+          plugin_skyline_frames: 8
+          plugin_skyline_quality: 0.25
           config_timezone: Africa/Nairobi
