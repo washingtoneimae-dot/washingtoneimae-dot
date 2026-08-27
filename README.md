@@ -14,7 +14,7 @@ Started publishing in May 2026 — weekends only. Everything you see is ~8 weeke
 
 | Project | What it does |
 |---|---|
-| [**lorouter**](https://github.com/washingtoneimae-dot/lorouter) | Decentralized proof-of-existence on Bitcoin. Stamp any file/idea to the blockchain as immutable prior art. No disclosure, no gatekeepers. Verified on testnet. |
+| [**lorouter**](https://github.com/washingtoneimae-dot/lorouter) | Subscription-powered marketplace for Skill Creation Files, Complete Skills, and Workflow Templates. Built on Docker, FastAPI, DeepSeek API.. |
 | [**SACCO System**](https://github.com/washingtoneimae-dot/saccosystem2) | Member statement automation for Kenyan savings cooperatives. Excel export + email delivery, pure Python stdlib, zero external dependencies. |
 | [**Timestamped IP**](https://github.com/washingtoneimae-dot/timestamped-ip) | Public verifiable prior-art registry — Bitcoin-anchored, GPG-signed. Companion to Bit Protocol. |
 | [**agent**](https://github.com/washingtoneimae-dot/agent)  | Subscription-powered marketplace for Skill Creation Files, Complete Skills, and Workflow Templates. Built on Docker, FastAPI, DeepSeek API. |
