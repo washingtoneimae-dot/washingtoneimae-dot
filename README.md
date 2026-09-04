@@ -1,6 +1,6 @@
 # Washington Imae
 
-**`washingtoneimae-dot`** · 17 · self-taught · Kenya
+**`washingtoneimae-dot`** · 18 · self-taught · Kenya
 
 I build things that timestamp the future. Bitcoin-anchored proof-of-existence. Tower health monitors that catch failures before they happen. Solar optimization that pays for itself. Fintech for the 99% who don't have it.
 
